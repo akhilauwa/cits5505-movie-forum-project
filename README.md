@@ -11,7 +11,7 @@ TODO: a list of features that the application provides.
 |-----------|-----------------|-----------------|
 | 23729213  | Akhila Liyanage | akhilauwa       |
 | 24073955  | Yumin Zeng      | Austin1900      |
-| 24079757  | Junwu Chen      |                 |
+| 24079757  | Junwu Chen      | jcfive          |
 | 24080897  | Wanqi Zhang     | Khalesssi       |
 
 ## Project Architecture
